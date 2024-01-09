@@ -40,3 +40,4 @@ NumPy
 Pandas
 Scikit-learn
 PyTorch
+https://www.google.com/maps/@41.0920751,29.0029078,3a,75y,14.07h,95.09t/data=!3m7!1e1!3m5!1sm0OWHoEfUnhkGgTWAa1MfQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dm0OWHoEfUnhkGgTWAa1MfQ%26cb_client%3Dsearch.gws-prod.gps%26w%3D86%26h%3D86%26yaw%3D40.826042%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?hl=en-GB&entry=ttu
